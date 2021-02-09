@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Software Engineer
+ 
+ 
+🌱 I’m currently learning:
+- Docker & Kubernetes
+- Microsoft Azure
+- 
 
+📫 How to reach me:
+  
+  
 <!--
 **sshev4enko/sshev4enko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
